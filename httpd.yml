@@ -1,4 +1,4 @@
-name: httpd setup
+- name: httpd setup
   hosts: all
   gather_facts: true
   become: true
